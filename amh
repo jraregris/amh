@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+# vi: set filetype=ruby:
+
+require "./amh-#{ARGV[0]}.rb"
